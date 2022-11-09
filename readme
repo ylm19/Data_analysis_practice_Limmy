@@ -1,7 +1,3 @@
-echo "# Data_analysis_practice_Limmy" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/ylm19/Data_analysis_practice_Limmy.git
-git push -u origin main
+# Daily analysis practice record 
+## Basic on Python
+
