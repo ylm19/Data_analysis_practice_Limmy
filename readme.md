@@ -5,14 +5,9 @@
 #### *You can also take a look at my Linkedin : [Liming Yang](https://www.linkedin.com/in/limmyyang-22117a1b4/)* <br />
 
 - [x] **Tableau** - 
-  -  Olist - Brazilian E-Commerce Analysis and Dashboard
-
-
-
-
-
-Data Analysis Project<br />
+  -  Olist - Brazilian E-Commerce Data Analysis <br />
   *See on Tableau Public:* **[Dashboard](https://public.tableau.com/app/profile/liming.yang1099/viz/OlisteCommerceAnalysisandDashboard/DASHBOARD?publish=yes)**<br />
+  *Review the Data Exploration :* **[HERE](002_Brazilian_E_Commerce_Public_Dataset_by_Olist.ipynb)
 
 ![Dashboard](    )
 
