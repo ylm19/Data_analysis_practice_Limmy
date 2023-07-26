@@ -5,7 +5,13 @@
 #### *You can also take a look at my Linkedin : [Liming Yang](https://www.linkedin.com/in/limmyyang-22117a1b4/)* <br />
 
 - [x] **Tableau** - 
-  -   Data Analysis Project<br />
+  -  Olist - Brazilian E-Commerce Analysis and Dashboard
+
+
+
+
+
+Data Analysis Project<br />
   *See on Tableau Public:* **[Dashboard](https://public.tableau.com/app/profile/liming.yang1099/viz/OlisteCommerceAnalysisandDashboard/DASHBOARD?publish=yes)**<br />
 
 ![Dashboard](    )
